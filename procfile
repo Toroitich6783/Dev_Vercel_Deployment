@@ -1,0 +1,1 @@
+web gunicorn Deploytest.wsgi:application --log-file -
